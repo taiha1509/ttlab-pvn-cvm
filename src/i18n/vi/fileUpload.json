@@ -1,0 +1,13 @@
+{
+    "field": {
+        "path": "Đường dẫn",
+        "fileName": "Tên tệp",
+        "originalName": "Tên gốc tệp",
+        "extension": "Định dạng",
+        "mimetype": "Loại tệp",
+        "size": "Dung lượng"
+    },
+    "error": {
+        "invalidFileName": "Tên tệp không hợp lệ"
+    }
+}

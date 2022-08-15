@@ -1,0 +1,18 @@
+{
+    "field": {
+        "groupCameraId": "Camera group",
+        "name": "E-map name",
+        "file.originalName": "Original file name",
+        "file.fileName": "File name",
+        "file.extension": "Extension",
+        "file.mimetype": "Mimetype",
+        "file.size": "Size",
+        "cameraCoordinates": "Camera coordinates"
+    },
+    "error": {
+        "exist": "E-map already exists!",
+        "notExist": "E-map does not exist!",
+        "existName": "E-map name already exists!",
+        "invalidCameras": "There are deleted cameras or not in the same a group"
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"field": {
+		"path": "Path",
+		"fileName": "File name",
+		"originalName": "Original file name",
+		"extension": "Extension",
+		"mimetype": "Mine-type",
+		"size": "Size"
+	},
+	"error": {
+		"invalidFileName": "Invalid file name"
+	}
+}

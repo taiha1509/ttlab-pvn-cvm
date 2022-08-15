@@ -1,0 +1,34 @@
+{
+    "field": {
+        "name": "Name",
+        "password": "Password",
+        "userName": "Username",
+        "serialNumber": "Serial Number",
+        "uid": "UID",
+        "model": "Model",
+        "cameraGroup": "Camera Group",
+        "configure": "Configure",
+        "groupUser": "User group",
+        "users": "Users",
+        "onvifProfile": "ONVIF profile"
+    },
+    "create": {
+        "userName.duplicate": "Username already exists!",
+        "uid.duplicate": "UID already exists!",
+        "serialNumber.duplicate": "Serial number already exists!",
+        "max.children": "Group can't has more than {max} devices!"
+    },
+    "update": {
+        "group.existed": "Groups does not exist!"
+    },
+    "get": {
+        "wrong.id": "Camera does not exist!",
+        "wrong.uid": "Camera uid does not exist!",
+        "has.schedule": "Can't delete the recording camera!",
+        "wrong.userIds": "Can't find users!",
+        "wrong.userGroupIds": "Can't find user groups!"
+    },
+    "loginUser": {
+        "notAllow.access": "This user is not assigned to the camera"
+    }
+}

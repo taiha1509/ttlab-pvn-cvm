@@ -1,0 +1,17 @@
+{
+    "field": {
+        "name": "Name",
+        "cameraId": "Camera identity",
+        "src": "Source",
+        "startAt": "Recording date time",
+        "endAt": "End of recording date time",
+        "duration": "Duration",
+        "status": "Status",
+        "format": "Format",
+        "size": "Size",
+        "encoding": "Encoding"
+    },
+    "error": {
+        "notExist": "Video does not exits"
+    }
+}

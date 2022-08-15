@@ -1,0 +1,23 @@
+{
+    "field": {
+        "name": "Camera group name"
+    },
+    "create": {
+        "name.duplicate": "Camera group name is existed!",
+        "parentId.invalid": "Group parent dost not exist!",
+        "max.subGroup": "This group can't have more than 16 subgroups!",
+        "max.level": "Can not create a subgroup  for the 4th level group"
+    },
+    "error": {
+        "name.duplicate": "Group camera name already exists!",
+        "parentId.invalid": "Can't find group camera parent!",
+        "max.subGroup": "This group can't have more than {max} subgroups!",
+        "max.level": "Can't create subgroup has level bigger than {max}!"
+    },
+    "get": {
+        "wrong.id": "Camera group does not exist!"
+    },
+    "delete": {
+        "containsChildren": "Subgroup already exists!"
+    }
+}

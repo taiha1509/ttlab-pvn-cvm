@@ -1,0 +1,23 @@
+{
+    "field": {
+        "name": "Tên nhóm camera"
+    },
+    "create": {
+        "name.duplicate": "Tên nhóm thiết bị đã tồn tại!",
+        "parentId.invalid": "Không thể tìm thấy nhóm thiết bị cha!",
+        "max.subGroup": "Nhóm thiết bị cha này không thể có quá 16 nhóm con!",
+        "max.level": "Không thể tạo nhóm con cho nhóm cấp 4"
+    },
+    "error": {
+        "name.duplicate": "Tên nhóm camera đã tồn tại!",
+        "parentId.invalid": "Nhóm camera cha không tồn tại!",
+        "max.subGroup": "Nhóm camera cha này không thể có quá {max} nhóm con!",
+        "max.level": "Không thể có quá {max} cấp độ!"
+    },
+    "get": {
+        "wrong.id": "Nhóm camera không tồn tại!"
+    },
+    "delete": {
+        "containsChildren": "Nhóm con tồn tại!"
+    }
+}

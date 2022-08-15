@@ -1,0 +1,26 @@
+{
+    "field": {
+        "cameraId": "Camera",
+        "cameraGroup": "Nhóm camera",
+        "startAt": "Thời gian bắt đầu",
+        "repetition.endDate": "Ngày lặp lại cuối cùng",
+        "repetition.repetitionValue": "Kiểu lặp lại"
+    },
+    "post": {
+        "invalidDateTime": "Thời gian cấu hình không hợp lệ.",
+        "notExistRepetition": "Lịch ghi hình không tồn tại"
+    },
+    "error": {
+        "overlapped": "Thời gian lịch ghi hình bị trùng.",
+        "invalidEndDate": "Thời gian kết thúc quá trình lặp phải là cuối ngày",
+        "invalidEndAt": "Không thể tạo lịch ghi hình trong quá khứ.",
+        "invalidSchedule": "Lịch ghi hình không thuộc về camera cung cấp",
+        "notFoundCamera": "Camera không tồn tại",
+        "notFoundCameraGroup": "Nhóm camera không tồn tại",
+        "notFoundSchedule": "Lịch ghi hình không tồn tại",
+        "scheduleIsAboutToStart": "Lịch ghi hình của bạn sẽ bắt đầu sau {time} phút. Bạn không thể xóa lịch ghi hình vào thời điểm này. Vui lòng thử lại sau.",
+        "scheduleIsUpdateRecording": "Camera đang ghi hình. Bạn không thể cập nhật lịch ghi hình vào thời điểm này. Vui lòng thử lại sau.",
+        "scheduleIsDeleteRecording": "Camera đang ghi hình. Bạn không thể xóa lịch ghi hình vào thời điểm này. Vui lòng thử lại sau.",
+        "notChangeTimeInPast": "Không thể thay đổi thời gian lịch ghi hình trong quá khứ"
+    }
+}

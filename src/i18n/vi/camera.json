@@ -1,0 +1,34 @@
+{
+    "field": {
+        "name": "Tên",
+        "password": "Mật khẩu",
+        "userName": "Tên đăng nhập",
+        "serialNumber": "Số serial",
+        "uid": "UID",
+        "model": "Model",
+        "cameraGroup": "Nhóm Camera",
+        "configure": "Cấu hình",
+        "groupUser": "Nhóm người dùng",
+        "users": "Người dùng",
+        "onvifProfile": "Thông tin ONVIF"
+    },
+    "create": {
+        "userName.duplicate": "Tên đăng nhập đã tồn tại!",
+        "uid.duplicate": "UID đã tồn tại!",
+        "serialNumber.duplicate": "Mã serial đã tồn tại!",
+        "max.children": "Một nhóm không có quá {max} camera!"
+    },
+    "update": {
+        "group.existed": "Nhóm camera không tồn tại!"
+    },
+    "get": {
+        "wrong.id": "Camera không tồn tại!",
+        "wrong.uid": "Camera uid không tồn tại!",
+        "has.schedule": "Không thể xoá camera đang ghi hình!",
+        "wrong.userIds": "Người dùng không tồn tại!",
+        "wrong.userGroupIds": "Nhóm người dùng không tồn tại!"
+    },
+    "loginUser": {
+        "notAllow.access": "Người dùng không được gán cho camera"
+    }
+}

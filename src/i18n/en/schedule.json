@@ -1,0 +1,26 @@
+{
+    "field": {
+        "cameraId": "Camera",
+        "cameraGroup": "Camera group",
+        "startAt": "Start at",
+        "repetition.endDate": "End date of repetition",
+        "repetition.repetitionValue": "Type of repetition"
+    },
+    "post": {
+        "invalidDateTime": "Date time setting is invalid",
+        "notExistRepetition": "Schedule repetition does not exist"
+    },
+    "error": {
+        "overlapped": "Schedule times are overlapped",
+        "invalidEndDate": "Repetition endDate must be end of the day.",
+        "invalidEndAt": "End date must be after start date.",
+        "invalidSchedule": "The schedule does not belong to the camera",
+        "notFoundCamera": "Camera dose not exist",
+        "notFoundCameraGroup": "Camera group does not exist",
+        "notFoundSchedule": "Schedule does not exist",
+        "scheduleIsAboutToStart": "This schedule will be start in {time} minutes. You can not delete the schedule at this time. Please try again.",
+        "scheduleIsUpdateRecording": "Camera is recording.You can not update the schedule at this time. Please try again.",
+        "scheduleIsDeleteRecording": "Camera is recording.You can not delete the schedule at this time. Please try again.",
+        "notChangeTimeInPast": "Can not change the schedule time in the past"
+    }
+}

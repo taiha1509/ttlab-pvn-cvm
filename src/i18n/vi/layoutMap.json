@@ -1,0 +1,18 @@
+{
+    "field": {
+        "groupCameraId": "Nhóm camera",
+        "name": "Tên E-map",
+        "file.originalName": "Tên tệp gốc",
+        "file.fileName": "Tên tệp",
+        "file.extension": "Định dạng tệp",
+        "file.mimetype": "Kiểu tệp",
+        "file.size": "Kích thước",
+        "cameraCoordinates": "Các tọa độ camera"
+    },
+    "error": {
+        "exist": "E-map đã tồn tại.",
+        "notExist": "E-map không tồn tại.",
+        "existName": "Tên E-map đã tồn tại.",
+        "invalidCameras": "Tồn tại camera đã bị xóa hoặc không thuộc cùng một nhóm camera."
+    }
+}

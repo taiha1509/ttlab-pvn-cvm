@@ -1,0 +1,17 @@
+{
+    "field": {
+        "name": "Tên video",
+        "cameraId": "Định danh camera",
+        "path": "Đường dẫn",
+        "startAt": "Thời điểm ghi hình",
+        "endAt": "Thời điểm kết thúc ghi hình",
+        "duration": "Thời lượng",
+        "status": "Trạng thái",
+        "format": "Định dạng",
+        "size": "Dung lượng",
+        "encoding": "Mã hóa"
+    },
+    "error": {
+        "notExist": "Video không tồn tại"
+    }
+}
